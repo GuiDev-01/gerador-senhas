@@ -30,7 +30,7 @@ A aplicação possui uma interface gráfica amigável onde você pode:
 
 ---
 
-##Como executar o arquivo do projeto 🚀
+## Como executar o arquivo do projeto 🚀
 1. Clone o repositório
    git clone https://github.com/GuiDev-01/gerador-senhas.git
 2. Acesse a pasta do projeto
@@ -38,7 +38,7 @@ A aplicação possui uma interface gráfica amigável onde você pode:
 3. Execute o arquivo principal
    python main.py
 
-#🧑‍💻 Desenvolvido por Antônio Guilherme
+# 🧑‍💻 Desenvolvido por Antônio Guilherme
 LinkedIn
 GitHub
 Projeto pessoal criado com o objetivo de consolidar meus conhecimentos em python e interface gráfica.
