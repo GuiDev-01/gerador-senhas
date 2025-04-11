@@ -19,6 +19,8 @@ A aplicação possui uma interface gráfica amigável onde você pode:
 - Gerar a senha com um clique
 - Copiar a senha com o botão “Copiar”
 
+![Preview da interface](Interface_Gráfica.png)
+
 ---
 
 ## 🛠️ Tecnologias usadas
