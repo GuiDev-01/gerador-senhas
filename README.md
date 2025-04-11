@@ -38,7 +38,7 @@ A aplicação possui uma interface gráfica amigável onde você pode:
 3. Execute o arquivo principal
    python main.py
 
-# 🧑‍💻 Desenvolvido por Antônio Guilherme
-LinkedIn
-GitHub
+### 🧑‍💻 Desenvolvido por Antônio Guilherme
+https://www.linkedin.com/in/ant%C3%B4nio-guilherme-56a3b9305/
+https://github.com/GuiDev-01
 Projeto pessoal criado com o objetivo de consolidar meus conhecimentos em python e interface gráfica.
